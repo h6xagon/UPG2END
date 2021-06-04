@@ -1,6 +1,0 @@
-C:\Users\0301jowa\Source\Repos\JER-Yahtzee\JER-Yahtzee\bin\Debug\JER-Yahtzee.exe
-C:\Users\0301jowa\Source\Repos\JER-Yahtzee\JER-Yahtzee\bin\Debug\JER-Yahtzee.pdb
-C:\Users\0301jowa\Source\Repos\JER-Yahtzee\JER-Yahtzee\obj\x86\Debug\JER-Yahtzee.csprojAssemblyReference.cache
-C:\Users\0301jowa\Source\Repos\JER-Yahtzee\JER-Yahtzee\obj\x86\Debug\JER-Yahtzee.csproj.CoreCompileInputs.cache
-C:\Users\0301jowa\Source\Repos\JER-Yahtzee\JER-Yahtzee\obj\x86\Debug\JER-Yahtzee.exe
-C:\Users\0301jowa\Source\Repos\JER-Yahtzee\JER-Yahtzee\obj\x86\Debug\JER-Yahtzee.pdb
